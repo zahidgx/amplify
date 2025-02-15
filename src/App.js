@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         APOCO SI TILIN DEV
         </a>
       </header>
     </div>
